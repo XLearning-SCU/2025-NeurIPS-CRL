@@ -29,5 +29,3 @@ Run the following commands to obtain the image and text embeddings.
 
 > python linear_probe.py
 
-Please consider citing this paper if you find our work useful in your research. Thank you very much.
-
