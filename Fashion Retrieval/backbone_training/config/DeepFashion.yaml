@@ -1,0 +1,23 @@
+DATA:
+  DATASET: DeepFashion
+  NUM_ATTRIBUTES: 5
+  ATTRIBUTES:
+    NAME:
+      - texture-related
+      - fabric-related
+      - shape-related
+      - part-related
+      - style-related
+    NUM: [156, 218, 180, 216, 230]
+  PATH_FILE:
+    TRAIN: filenames_train.txt
+    VALID: filenames_valid.txt
+    TEST: filenames_test.txt
+  GROUNDTRUTH:
+    TRAIN: label_train.txt
+    QUERY:
+      VALID: query_valid.txt
+      TEST: query_test.txt
+    CANDIDATE:
+      VALID: candidate_valid.txt
+      TEST: candidate_test.txt
