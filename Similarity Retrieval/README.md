@@ -25,3 +25,7 @@ Evaluate the method by:
 > cd eval/
 > 
 > python evaluate.py
+
+## Performance
+
+<div align=center><img src="../figures/performance-similarity.png" width = "75%"/></div>
