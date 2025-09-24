@@ -56,3 +56,7 @@ Train the CLIP backbone by:
 Evaluate the final model by:
 
 > python test_model.py
+
+## Performance
+
+<div align=center><img src="../figures/performance-fashion.png" width = "75%"/></div>
