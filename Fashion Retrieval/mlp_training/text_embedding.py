@@ -26,7 +26,6 @@ if __name__ == "__main__":
     print(args)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    # model, preprocess = clip.load('RN50', device)
     model, preprocess = clip.load('ViT-B/16', device)
 
     true_label, prompt, gpt_label = load_text.load_text(args)
