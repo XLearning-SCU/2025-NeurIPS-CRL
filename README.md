@@ -50,7 +50,7 @@ Briefly, given a criterion, it searches all the candidate images that share the 
 
 We generate the conditional representation and apply it to this task following [ASEN](https://github.com/Maryeon/asen?tab=readme-ov-file).
 
-#### 🗒️ Citation
+### 🗒️ Citation
 
 If you find our work helpful to you, please consider citing our paper. Thanks very much.
 
