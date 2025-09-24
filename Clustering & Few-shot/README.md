@@ -9,13 +9,9 @@
 
 ## Dataset
 
-Download datasets from the following URLs.
+Download datasets from the following URLs: [Clevr4-10k](https://www.robots.ox.ac.uk/~vgg/data/clevr4/), [Cards](http://faculty.washington.edu/juhuah/images/AugDMC_datasets.zip).
 
-Clevr4-10k: https://www.robots.ox.ac.uk/~vgg/data/clevr4/
-
-Cards: http://faculty.washington.edu/juhuah/images/AugDMC_datasets.zip
-
-Run the following commands to obtain the image and text embeddings.
+Run the following commands to obtain the image and text embeddings:
 
 > python image_embedding.py
 
