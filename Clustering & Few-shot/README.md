@@ -25,3 +25,10 @@ Run the following commands to obtain the image and text embeddings:
 
 > python linear_probe.py
 
+## Clustering Performance
+
+<div align=center><img src="../figures/performance-clustering.png" width = "50%"/></div>
+
+## Few-shot Classification Performance
+
+<div align=center><img src="../figures/performance-few-shot.png" width = "50%"/></div>
