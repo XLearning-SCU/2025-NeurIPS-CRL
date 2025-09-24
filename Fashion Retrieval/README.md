@@ -24,7 +24,9 @@ We adopt DeepFashion as the benchmark dataset, keeping the same as [asen](https:
 Run the following commands to obtain the image and text embeddings:
 
 > cd mlp_training/
+> 
 > python image_embedding.py
+> 
 > python text_embedding.py
 
 Evaluate the original CLIP model by:
@@ -43,7 +45,8 @@ Evaluate the MLP_layer by:
 
 Generate the text embeddings:
 
-> cd ../backbone_training
+> cd ../backbone_training/
+> 
 > python text_embedding.py
 
 Train the CLIP backbone by:
