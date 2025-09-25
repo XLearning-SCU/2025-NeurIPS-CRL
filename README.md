@@ -20,9 +20,9 @@ We showcase the generalization ability of our method through four downstream tas
 
 You can refer to the corresponding folder for the part you are interested in.
 
-#### ❖ Few-shot Classification & Clustering
+#### ❖ Clustering & Few-shot Classification
 
-Directly use the conditional embedding to perform few-shot classification and clustering under multiple criteria.
+Directly use the conditional representation to perform clustering and few-shot classification under multiple criteria.
 
 <div align=center><img src="figures/classification.png" width = "65%"/></div>
 
@@ -38,7 +38,7 @@ In contrast, the “Change" setting requires the target image to maintain the sa
 
 <div align=center><img src="figures/similarity-change.png" width = "65%"/></div>
 
-To employ CRL, we ask the LLM for the common scenes and obtain the conditional representation of the query and candidate images, then calculate and sum the similarities of these two factors for retrieval.
+To employ CRL, we ask the LLM for the common scenes, obtaining the conditional representation of the query and candidate images. Then, we calculate and sum the similarities of these two factors for retrieval.
 
 #### ❖ Fashion Retrieval
 
