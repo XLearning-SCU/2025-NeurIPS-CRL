@@ -3,6 +3,8 @@ Conventional representation learning focuses on learning a universal representat
 
 We propose conditional representation learning (CRL) towards arbitrary criteria for multiple downstream tasks.
 
+Paper can be found here: [NeurIPS 25-CRL](http://pengxi.me/wp-content/uploads/2025/09/2025__Conditional-Representation-Learning-for-Customized-Tasks.pdf)
+
 <div align=center><img src="figures/figure 1.png" width = "45%"/></div>
 
 ### 🚀 A frustratingly simple yet effective way:
