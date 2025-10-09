@@ -56,4 +56,13 @@ We generate the conditional representation and apply it to this task following [
 
 If you find our work helpful to you, please consider citing our paper. Thanks very much.
 
+```latex
+@article{liu2025conditional,
+  title={Conditional Representation Learning for Customized Tasks},
+  author={Liu, Honglin and Sun, Chao and Hu, Peng and Li, Yunfan and Peng, Xi},
+  journal={arXiv preprint arXiv:2510.04564},
+  year={2025}
+}
+```
+
 We sincerely hope this work could inspire new insights and stimulate further research in this underexplored yet promising field.
